@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\B09S113est\\Desktop\\geronimo monsalve\\1.InicioVisualStudio\\",
+  "WorkspaceRootPath": "C:\\Users\\B09S113est\\Desktop\\geronimo monsalve\\FP8\\1.InicioVisualStudio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B584D0EF-BD39-4023-9865-7BCC47C0A4D2}|1.InicioVisualStudio\\1.InicioVisualStudio.csproj|c:\\users\\b09s113est\\desktop\\geronimo monsalve\\1.iniciovisualstudio\\1.iniciovisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B584D0EF-BD39-4023-9865-7BCC47C0A4D2}|1.InicioVisualStudio\\1.InicioVisualStudio.csproj|c:\\users\\b09s113est\\desktop\\geronimo monsalve\\fp8\\1.iniciovisualstudio\\1.iniciovisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B584D0EF-BD39-4023-9865-7BCC47C0A4D2}|1.InicioVisualStudio\\1.InicioVisualStudio.csproj|solutionrelative:1.iniciovisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -24,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\B09S113est\\Desktop\\geronimo monsalve\\1.InicioVisualStudio\\1.InicioVisualStudio\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\B09S113est\\Desktop\\geronimo monsalve\\FP8\\1.InicioVisualStudio\\1.InicioVisualStudio\\Program.cs",
               "RelativeDocumentMoniker": "1.InicioVisualStudio\\Program.cs",
-              "ToolTip": "C:\\Users\\B09S113est\\Desktop\\geronimo monsalve\\1.InicioVisualStudio\\1.InicioVisualStudio\\Program.cs",
+              "ToolTip": "C:\\Users\\B09S113est\\Desktop\\geronimo monsalve\\FP8\\1.InicioVisualStudio\\1.InicioVisualStudio\\Program.cs",
               "RelativeToolTip": "1.InicioVisualStudio\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T14:14:47.736Z",
               "EditorCaption": ""
