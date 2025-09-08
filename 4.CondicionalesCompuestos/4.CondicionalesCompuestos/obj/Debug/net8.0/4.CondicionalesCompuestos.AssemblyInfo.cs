@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4.CondicionalesCompuestos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63ce392ae04ddfe942ab1bffbfa473f250dd396c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd0b7b68884b8dcdb2ec395ec990c28f847951a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("4.CondicionalesCompuestos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4.CondicionalesCompuestos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
