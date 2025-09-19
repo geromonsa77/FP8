@@ -1,0 +1,15 @@
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\bin\Debug\net8.0\Parcia Ciclos Geronimo Monsalve.exe
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\bin\Debug\net8.0\Parcia Ciclos Geronimo Monsalve.deps.json
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\bin\Debug\net8.0\Parcia Ciclos Geronimo Monsalve.runtimeconfig.json
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\bin\Debug\net8.0\Parcia Ciclos Geronimo Monsalve.dll
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\bin\Debug\net8.0\Parcia Ciclos Geronimo Monsalve.pdb
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\obj\Debug\net8.0\Parcia Ciclos Geronimo Monsalve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\obj\Debug\net8.0\Parcia Ciclos Geronimo Monsalve.AssemblyInfoInputs.cache
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\obj\Debug\net8.0\Parcia Ciclos Geronimo Monsalve.AssemblyInfo.cs
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\obj\Debug\net8.0\Parcia Ciclos Geronimo Monsalve.csproj.CoreCompileInputs.cache
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\obj\Debug\net8.0\Parcia Ciclos Geronimo Monsalve.sourcelink.json
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\obj\Debug\net8.0\Parcia Ciclos Geronimo Monsalve.dll
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\obj\Debug\net8.0\refint\Parcia Ciclos Geronimo Monsalve.dll
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\obj\Debug\net8.0\Parcia Ciclos Geronimo Monsalve.pdb
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\obj\Debug\net8.0\Parcia Ciclos Geronimo Monsalve.genruntimeconfig.cache
+C:\Users\B09S113est\Desktop\Gero\FP8\Parcia Ciclos Geronimo Monsalve\Parcia Ciclos Geronimo Monsalve\obj\Debug\net8.0\ref\Parcia Ciclos Geronimo Monsalve.dll
