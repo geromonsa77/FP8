@@ -1,0 +1,50 @@
+﻿namespace _29.TallerMatrices
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[,] numeros = new int[4, 4];
+            int[] SumaColumnas=new int[numeros.GetLength(1)]; 
+
+            for (int i = 0; i < numeros.GetLength(0); i++)
+            {
+                for (int j = 0; j < numeros.GetLength(1); j++)
+                {
+                    Console.WriteLine($"Ingrese el numero para la posicion [{i},{j}]: ");
+                    numeros[i, j] = int.Parse(Console.ReadLine());
+                }
+
+            }
+            for (int i = 0; i < numeros.GetLength(0); i++)
+            {
+                for (int j = 0; j < numeros.GetLength(1); j++)
+                {
+                    Console.Write($"{numeros[i,j]} | ");
+                    
+                }
+                Console.WriteLine();
+
+            }
+            //Recorrer la matriz y mostrar la suma de todos los elementos
+
+            for (int i = 0; i < numeros.GetLength(1); i++)
+            {
+                for (int j = 0; j < numeros.GetLength(0); j++)
+                {
+                    SumaColumnas[i] += numeros[j, i];
+                }
+
+            }
+
+            for (int i = 0; i < SumaColumnas.Length; i++)
+            {
+                Console.WriteLine($"{SumaColumnas[i]} |");
+            }
+
+            //
+
+
+        }
+    }
+}
